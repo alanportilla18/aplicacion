@@ -11,7 +11,7 @@
 </head>
 
 <body>
-    <form class="container">
+    <form method="POST" action="registrar.php" class="container">
         <div class="mb-3">
             <label for="identificador" class="form-label">Identificador</label>
             <input type="text" class="form-control" id="identificador" name="identificador">
